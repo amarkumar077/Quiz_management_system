@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Python \u0915\u093e Creator \u0915\u094c\u0928 \u0939\u0948?",
+        "options": [
+            "James Gosling",
+            "Guido van Rossum",
+            "Dennis Ritchie",
+            "Bjarne Stroustrup"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "who is the father of python",
+        "options": [
+            "mahatma gandhi",
+            "guido van rossum",
+            "maxwell",
+            "peterson"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "what is the capital of bihar",
+        "options": [
+            "patna",
+            "panji",
+            "gangtok",
+            "delhi"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "who is prime minister of india",
+        "options": [
+            "narendra modi",
+            "amit sah",
+            "dfddfs",
+            "dfs"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "who is first prime minister of india",
+        "options": [
+            "pandit jawahar laal nehru",
+            "hjfdgjh",
+            "fdf",
+            "dggdf"
+        ],
+        "answer": "1"
+    }
+]
